@@ -1,0 +1,6 @@
+[requires]
+7bitdi/3.4.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
