@@ -2,4 +2,6 @@ CMakeUserPresets.json
 
 build/
 
+3d-model/
+
 .vscode/
